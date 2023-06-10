@@ -1,2 +1,2 @@
 # stroke-prediction
-machine learning project from predicting stroke
+machine learning project for predicting stroke
